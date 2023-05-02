@@ -1,0 +1,12 @@
+{
+  "name": "k6-demo",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"\" rel=\"noopener\">  <img width=200px height=200px src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png\" alt=\"Project logo\"></a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
