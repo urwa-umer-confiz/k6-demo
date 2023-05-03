@@ -19,3 +19,21 @@
 <p align="center"> A demo project to understand and explain how K6 works step by step
     <br> 
 </p>
+
+### Run Commands
+
+```
+docker-compose up -d \
+    influxdb \
+    grafana
+```
+
+```
+docker-compose run k6 run /tests/test.js
+
+```
+
+```
+ k6 run script.js
+
+```
